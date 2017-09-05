@@ -1,3 +1,5 @@
 .gitignore
 .ipynb_checkpoints/*
+
+01-2-babynames/babynames2016_state_gender_year_name_count.csv
 67262-master/*
